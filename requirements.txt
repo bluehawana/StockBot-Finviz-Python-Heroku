@@ -1,0 +1,15 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pandas>=1.3.0
+yfinance>=0.1.63
+python-dotenv>=0.19.0
+requests>=2.26.0
+matplotlib>=3.4.3
+fpdf>=1.7.2
+python-multipart>=0.0.5
+aiofiles>=0.7.0
+plotly>=5.3.1
+kaleido>=0.2.1
+apscheduler>=3.9.1
+mailjet_rest>=1.3.4
+fastapi-mail>=1.2.0 
